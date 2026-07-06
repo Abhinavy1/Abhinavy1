@@ -7,8 +7,6 @@
 ![](https://komarev.com/ghpvc/?username=Abhinavy1&style=for-the-badge&color=blue)
 
 </div>
-
-🔭 I'm currently Studying  
 👯 I'm looking to collaborate on Open-source projects  
 🤝 I'm looking for help with simplifying complex technical concepts related to Full-Stack development  
 🌱 I'm currently learning Advanced Concepts in TypeScript, NextJS, and MySQL development  
