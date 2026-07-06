@@ -1,5 +1,12 @@
-# 💫 About Me:
-🎓 B.Tech Student | 🧪 Aspiring Software Test Engineer | ✅ Passionate About Quality Assurance | 🤖 AI & ML Enthusiast  
+<div align="center">
+
+# Hi 👋, I'm Abhinav Kumar
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Testing+%26+QA+Enthusiast;Aspiring+Software+Test+Engineer;Full-Stack+Developer;Java+%7C+Selenium+%7C+Postman+%7C+MongoDB;Always+Learning+Something+New+🚀)](https://git.io/typing-svg)
+
+![](https://komarev.com/ghpvc/?username=Abhinavy1&style=for-the-badge&color=blue)
+
+</div>
 
 🔭 I'm currently Studying  
 👯 I'm looking to collaborate on Open-source projects  
